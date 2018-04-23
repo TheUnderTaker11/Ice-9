@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "Y#Y",
+    "XXX"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:dragon_egg"
+    },
+    "X": {
+      "item": "minecraft:ice"
+    },
+    "Y": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "item": "ice9:ice9",
+    "data": 0
+  }
+}
